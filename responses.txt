@@ -1,0 +1,4 @@
+Response: ragu-ragu | Timestamp: 2024-11-12 17:11:00
+Response: puas | Timestamp: 2024-11-12 17:13:43
+Response: ragu-ragu | Timestamp: 2024-11-12 17:13:57
+Response: ragu-ragu | Timestamp: 2024-11-12 17:17:48
